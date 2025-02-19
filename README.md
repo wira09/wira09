@@ -74,7 +74,7 @@
           <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="Express.js" width="40" height="40"/>
         </a>
         <a href="https://laravel.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+          <img src="./laravel.svg" alt="Laravel" width="40" height="40"/>
         </a>
       </p>
       <h3 align="center">Database & Testing</h3>
