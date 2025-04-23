@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Night Coding" src="./tenor.gif" width="400"/>
+  <img alt="Night Coding" src="wira.gif" width="400"/>
 </p>
 
 ---
@@ -30,9 +30,6 @@
         <a href="https://code.visualstudio.com/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/>
         </a>
-        <a href="https://replit.com/">
-          <img src="https://miro.medium.com/v2/resize:fit:945/1*rCK7fhfY9jb-osA77oaOAQ.png" width="40" height="40"/>
-        </a>
       </p>
     </td>
     <td valign="top" width="33%">
@@ -44,14 +41,11 @@
         <a href="https://www.w3.org/html/">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
         </a>
-        <a href="https://reactjs.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-        </a>
         <a href="https://jquery.com/">
           <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40"/>
         </a>
         <a href="https://getbootstrap.com">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+          <img src="bootstrap-5.svg" alt="Bootstrap" width="40" height="40"/>
         </a>
       </p>
       <h3 align="center">Other</h3>
@@ -70,8 +64,8 @@
         <a href="https://nodejs.org">
           <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
         </a>
-        <a href="https://expressjs.com">
-          <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="Express.js" width="40" height="40"/>
+        <a href="https://go.dev/">
+          <img src="golang.svg" alt="Golang" width="50" height="40"/>
         </a>
         <a href="https://laravel.com/">
           <img src="./laravel.svg" alt="Laravel" width="40" height="40"/>
