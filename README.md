@@ -6,111 +6,81 @@
 </p>
 
 <p align="center">
-  <img alt="Night Coding" src="wira.gif" width="400"/>
+  <img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amp6cWxmOHNkMmMyZjk2MmI0aHFpeGl3MWowd3B3Nnh1OXhvdm91bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hKdDwtTZ6gD0AS7etL/giphy.gif" width="400"/>
 </p>
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+# 💫 About Me:
+<div align="center">
+  
+A passionate full-stack developer with expertise in both frontend and backend technologies. I love building robust and scalable web applications using modern tech stacks.
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Programming Languages</h3>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-        </a>
-        <a href="https://www.php.net/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-        </a>
-      </p>
-      <h3 align="center">IDEs/Editors</h3>
-      <p align="center">
-        <a href="https://code.visualstudio.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend Development</h3>
-      <p align="center">
-        <a href="https://www.w3schools.com/css/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3.org/html/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-        </a>
-        <a href="https://jquery.com/">
-          <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40"/>
-        </a>
-        <a href="https://getbootstrap.com">
-          <img src="bootstrap-5.svg" alt="Bootstrap" width="40" height="40"/>
-        </a>
-      </p>
-      <h3 align="center">Other</h3>
-      <p align="center">
-        <a href="https://git-scm.com/">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-        </a>
-        <a href="https://www.apache.org/">
-          <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend Development</h3>
-      <p align="center">
-        <a href="https://nodejs.org">
-          <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-        </a>
-        <a href="https://go.dev/">
-          <img src="golang.svg" alt="Golang" width="50" height="40"/>
-        </a>
-        <a href="https://laravel.com/">
-          <img src="./laravel.svg" alt="Laravel" width="40" height="40"/>
-        </a>
-      </p>
-      <h3 align="center">Database & Testing</h3>
-      <p align="center">
-        <a href="https://www.mongodb.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-        </a>
-        <a href="https://www.postgresql.org/">
-          <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="Postgresql" width="60" height="40"/>
-        </a>
-        <a href="https://postman.com">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-        </a>
-        <a href="https://www.mysql.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-        </a>
-      </p>
-    </td>
+</div>
 
-  </tr>
-</table>
+# 🌐 Socials:
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zaelaniwira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamad-zaelani-wira-kusuma-4859b3262/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@wira.teknologi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Streamerbarumagang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zmuhamad064@gmail.com)
+
+</div>
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/wira09">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wira09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wira09&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+## ⚙️ Backend  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me
+## 📱 Mobile Dev  
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohamad-zaelani-wira-kusuma-4859b3262">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/zaelaniwira">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-</p>
+---
+
+## 🗄️ Database  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+
+---
+
+## 🔧 Tools & Others  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+
+</div>
+
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wira09&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
