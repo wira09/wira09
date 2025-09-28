@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohamad Zaelani Wira Kusuma</h1>
-<h3 align="center">A passionate full-stack developer with expertise in both frontend and backend technologies. I love building robust and scalable web applications using modern tech stacks.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wira09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,7 +13,7 @@
 # 💫 About Me:
 <div align="center">
   
-A passionate full-stack developer with expertise in both frontend and backend technologies. I love building robust and scalable web applications using modern tech stacks.
+Software Engineer yang berpengalaman di bidang Fullstack Development, Mobile/Android, dan UI/UX Design. Terampil dalam mengembangkan aplikasi web dan mobile yang tangguh, skalabel, serta berfokus pada pengalaman pengguna. Menguasai teknologi front-end dan back-end modern, serta mampu mengintegrasikan desain antarmuka yang intuitif dengan fungsionalitas aplikasi untuk menciptakan solusi digital yang inovatif dan berkualitas tinggi.
 
 </div>
 
