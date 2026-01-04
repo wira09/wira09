@@ -77,10 +77,3 @@ Software Engineer yang berpengalaman di bidang Fullstack Development, Mobile/And
 </div>
 
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wira09&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
